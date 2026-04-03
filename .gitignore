@@ -1,0 +1,10 @@
+#ignore big data files
+output/ 
+
+#ignore cache created
+__pycache__/
+*.pyc
+
+
+# vscode
+.vscode/
